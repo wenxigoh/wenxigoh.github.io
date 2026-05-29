@@ -9,6 +9,8 @@ html, body, .reveal, .reveal .slides, .reveal .slides section {
   overflow: visible !important;
   top: 0 !important;
   left: 0 !important;
+  /*also make sure the font size looks correct*/
+  font-size: 2vw !important;
 }
 
 /*prevent automatic capitalisation of headers*/
@@ -20,6 +22,11 @@ html, body, .reveal, .reveal .slides, .reveal .slides section {
 .absolute {
   position: absolute !important;
   z-index: 999;
+}
+
+/*prevent line breaks in text with nowrap*/
+.nowrap {
+  white-space: nowrap !important;
 }
 
 /*positions for slide elements at the four corners of the screen */
