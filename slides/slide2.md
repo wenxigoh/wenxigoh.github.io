@@ -12,3 +12,5 @@ in addition to exploring other new technologies such as 3D printing.
 <!-- .element: class="absolute top-left" style="top: 8%"-->
 ![photo](https://ik.imagekit.io/bwxixksh1/Portfolio/CO%20Pic%201)
 <!-- .element: class="absolute top-left fragment fade-right" style="top: 50%; height:22vw;" -->
+![photo](https://ik.imagekit.io/bwxixksh1/Portfolio/NLBxAI4IMPACT%20Chatbot%20for%20Non-Programmers%20Workshop%209Dec2023.jpg)
+<!-- .element: class="absolute center-center fragment fade-up" style="top:50%; left:20%; height:22vw;">
