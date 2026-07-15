@@ -1,6 +1,6 @@
 # Visualising Real-World Spatial Data with Maps
 <!-- .element: class="absolute top-left" style="font-size:1.5em;"-->
-<b> Taxi Availability Map Using the LTA Datamall API</b>\
+<b> Taxi Availability Map using the LTA Datamall API</b>\
 \
 My interest was piqued when I saw in a taxi booking app that the user could see \
 where the taxi was in real-time. I was curious about how taxis were distributed \
