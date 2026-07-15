@@ -49,3 +49,5 @@ html, body, .reveal, .reveal .slides, .reveal .slides section {
   display: flex !important;
   align-items: flex-end; /* This keeps images lined up at the bottom */
 }
+
+.reveal iframe.absolute { max-width: none !important; }
