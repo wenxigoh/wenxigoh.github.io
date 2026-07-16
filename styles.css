@@ -50,4 +50,14 @@ html, body, .reveal, .reveal .slides, .reveal .slides section {
   align-items: flex-end; /* This keeps images lined up at the bottom */
 }
 
+/* column for positioning elements in a column */
+.col {
+  position: absolute !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-start; /* Items align to the left of the column */
+  display: block !important;
+  z-index: 999;
+}
+
 .reveal iframe.absolute { max-width: none !important; }
