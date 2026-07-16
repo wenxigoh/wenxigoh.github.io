@@ -17,7 +17,7 @@ up the erhu after joining Chinese Orchestra as my CCA.
 ![photo](https://ik.imagekit.io/bwxixksh1/Portfolio/CO%20Pic%201)
 <!-- .element: class="fragment fade-right" style="height: 21vw;" -->
 
-![photo](https://ik.imagekit.io/bwxixksh1/Portfolio/NLBxAI4IMPACT%20Chatbot%20for%20Non-Programmers%20Workshop%209Dec2023.jpg)
+![photo](https://ik.imagekit.io/bwxixksh1/Portfolio/NLBxAI4IMPACT%20Chatbot%20for%20Non-Programmers%20Workshop%209Dec2023)
 <!-- .element: class="fragment fade-up" style="height: 21vw;" -->
 
 ![photo](https://ik.imagekit.io/bwxixksh1/Portfolio/laser%20cut%20tag)

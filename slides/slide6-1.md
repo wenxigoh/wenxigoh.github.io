@@ -1,6 +1,6 @@
 <b> Achievements </b> \
 \
-In 2022, I participated in the AI4IMPACT Chatbot for Non-Programmers \
+In 2023, I participated in the AI4IMPACT Chatbot for Non-Programmers \
 workshop organised by NLB where I learnt how GenAI could be applied to \
 solve real-world problems and developed a better understanding of AI \
 technologies.\
