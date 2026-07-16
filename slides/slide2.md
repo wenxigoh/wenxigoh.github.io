@@ -10,9 +10,17 @@ laser cutting and 3D printing. \
 Outside of computing, I enjoy music. I have a Grade 8 in Piano and a Grade 6 in Erhu. \
 I also enjoy cycling and the outdoors. have been playing the Piano since P1 and picked up \
 the erhu after joining Chinese Orchestra as my CCA.
-
 <!-- .element: class="absolute top-left" style="top: 8%"-->
+
+<div class="row" style="top: 53%; left: 2%; gap: 0.25vw;">
+
 ![photo](https://ik.imagekit.io/bwxixksh1/Portfolio/CO%20Pic%201)
-<!-- .element: class="absolute top-left fragment fade-right" style="top: 53%; height:21vw;" -->
+<!-- .element: class="fragment fade-right" style="height: 21vw;" -->
+
 ![photo](https://ik.imagekit.io/bwxixksh1/Portfolio/NLBxAI4IMPACT%20Chatbot%20for%20Non-Programmers%20Workshop%209Dec2023.jpg)
-<!-- .element: class="absolute center-center fragment fade-up" style="top:53%; left:20%; height:21vw;">
+<!-- .element: class="fragment fade-up" style="height: 21vw;" -->
+
+![photo](https://ik.imagekit.io/bwxixksh1/Portfolio/laser%20cut%20tag)
+<!-- .element: class="fragment fade-left" style="height: 21vw;" -->
+
+</div>
