@@ -7,7 +7,7 @@ This improves transparency by allowing every member to access their own records.
 \
 Admins are also able to access an admin panel to create and update new records as strikes \
 are recorded. Authentication was handled using Appwrite functions to compare the password \
-ash against the securely stored hash on the server.
+hash against the securely stored hash on the server.
 <!-- .element: class="absolute top-left" -->
 
 <div class="row" style="top: 52%; left: 2%; gap: 1vw;">
