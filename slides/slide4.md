@@ -15,3 +15,5 @@ the live location data using the LTA Datamall API. To display the locations, I u
 map. The website also shows the total number of available taxis and the time of the \
 last data update. 
 <!-- .element: class="absolute top-left" style="top: 8%"-->
+![photo](https://ik.imagekit.io/bwxixksh1/grab-taxi-map)
+<!-- .element: class="absolute fragment fade-left" style="top:3%; left:73%; width:24vw;">
