@@ -3,11 +3,11 @@
 I built the website using HTML and JavaScript for the frontend and used Appwrite for \
 the backend service. The website allows regular users to view all strikes recorded in \
 the database and search specific phone numbers to check if they have strikes recorded. \
-This enables transparency by allowing every member to access their records. \
+This improves transparency by allowing every member to access their own records. \
 \
 Admins are also able to access an admin panel to create and update new records as strikes \
-are recorded. Authentication was handled by using Appwrite functions to compare a hash of \
-the password with the one stored on the server. 
+are recorded. Authentication was handled using Appwrite functions to compare the password \
+ash against the securely stored hash on the server.
 <!-- .element: class="absolute top-left" -->
 
 <div class="row" style="top: 52%; left: 2%; gap: 1vw;">

@@ -1,14 +1,14 @@
 <b> Achievements </b> \
 \
 In 2022, I participated in the AI4IMPACT Chatbot for Non-Programmers \
-workshop organised by NLB where I learnt how GenAI could be used to \
-solve real-world problems and understood how AI technologies could be\
-used. \
+workshop organised by NLB where I learnt how GenAI could be applied to \
+solve real-world problems and developed a better understanding of AI \
+technologies.\
 \
 In 2024, I attained Distinction at the ICAS Science Competition. \
 In 2025, I achieved a Silver at the BEBRAS Computational Thinking \
-Challenge. I also learnt about competitive programming and how to \
-program in C++ at the Competitive Programming Introductory Course (CPIC). \
+Challenge. I also learnt the fundamentals of competitive programming and C++ \
+at the Competitive Programming Introductory Course (CPIC). \
 I then applied my knowledge at the Singapore Informatics League (SIL) 2025 \
 where my teammates and I achieved a Bronze award.
 <!-- .element: class="absolute top-left" style="top: 2%"-->
