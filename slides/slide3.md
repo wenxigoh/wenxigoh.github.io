@@ -7,7 +7,7 @@ of members who had broken community rules was difficult and inefficient \
 as other admins and I would often struggle to remember how many strikes \
 an offender had.\
 \
-This sometimes lead to issues where members would claim they were banned \
+This sometimes led to issues where members would claim they were banned \
 unfairly due to admins misremembering the number of strikes a person had \
 and banning them too early, or disputes over the number of strikes a member \
 had.\

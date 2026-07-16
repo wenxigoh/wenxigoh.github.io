@@ -3,7 +3,7 @@
 After creating the taxi availability map, I decided to try visualising another source \
 to learn how to display live images as well as locations on a website. \
 I built another website using the Traffic Camera API that fetches and displays live \
-trafic images from different locations around Singapore. \
+traffic images from different locations around Singapore. \
 \
 Through this project, I learnt how to manage both location data and image URLs and \
 display and update both while maintaining the user experience.
